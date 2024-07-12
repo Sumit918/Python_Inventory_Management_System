@@ -1,0 +1,5 @@
+1, Velvet Table Cloth, Saathi, 8,20
+2, Microphone Set, Audio Technica, 189,15
+3, Disco Light Set, Sonoff, 322,24
+4, Surround Sound Speaker Set, Dolby, 489,4
+5, Dinner Table 8x5, Panda Furnitures, 344, 8

@@ -1,0 +1,2 @@
+1, Velvet Table Cloth, Saathi,2,16.0
+1, Velvet Table Cloth, Saathi,12,8.0
